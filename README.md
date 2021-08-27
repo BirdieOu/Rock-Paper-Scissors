@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-Rock Paper Scissor Game
+Rock Paper Scissors Game
 
 -->Modelled after a freeCodeCamp YT video-->
 Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game
