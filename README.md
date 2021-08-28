@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 Rock Paper Scissors Game
 
---> I built the web application by following a freeCodeCamp YT video-->
+--> I built this web application by following a tutorial video on freeCodeCamp's YouTube channel-->
 <a href="https://youtu.be/jaVNP3nIAv0?t=1669">Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game</a>
 
 
